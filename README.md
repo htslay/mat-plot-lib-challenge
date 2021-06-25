@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This Jupyter notebook contains my original work analyzing a given dataset. Data and guidlines for the project provided by Trilogy Education Services through Georgia Tech.
 
 The remainder of this document is instructional material provided by Trilogy Education Services through Georgia Tech:
@@ -88,6 +87,3 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-=======
-# mat-plot-lib-challenge
->>>>>>> parent of 39d49ff (Update README.md)
