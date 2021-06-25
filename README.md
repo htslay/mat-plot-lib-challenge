@@ -1,3 +1,7 @@
+This Jupyter notebook contains my original work analyzing a given dataset. Data and guidlines for the project provided by Trilogy Education Services through Georgia Tech.
+
+The remainder of this document is instructional material provided by Trilogy Education Services through Georgia Tech:
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
